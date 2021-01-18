@@ -1,6 +1,6 @@
 # ChessLearning
 
-A simple repository with the aim to write a chess engine with the purpose of learning python rather then learning how to write
+A simple repository with the aim to write a chess engine with the purpose of learning python rather than learning how to write
 an optimal chess engine.
 
 
