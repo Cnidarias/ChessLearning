@@ -73,7 +73,6 @@ class ChessGame:
         self.surface.blit(scaled_image, (80, 80))
 
 
-
 if __name__ == '__main__':
     # Create a new ChessGame class instance and call its run method
     ChessGame().run()
