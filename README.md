@@ -6,7 +6,7 @@ an optimal chess engine.
 
 ## Credits
 
-The chess pieces are taken from Wikipedia they are licensed under the [Create Commons Attribution-Share Aline 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+The chess pieces are taken from Wikipedia they are licensed under the [Create Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
 * [white king](https://en.wikipedia.org/wiki/File:Chess_klt45.svg)
 * [black king](https://en.wikipedia.org/wiki/File:Chess_kdt45.svg)
